@@ -116,6 +116,7 @@
 .bg-sun1 {
   background-color: #ff7c00 !important;
 }
+
 .bg-transparent {
   background-color: #ff0000 !important;
 }
@@ -142,7 +143,7 @@
 }
 
 .banner {
-  max-width: 1920px;
+  max-width: 2500px;
   margin-top: 0px;
   margin-bottom: 50px;
   --bs-gutter-x: 0 !important;
@@ -182,7 +183,6 @@
 
 }
 
-
-
-
-
+.borderSun1 {
+  border: 5px solid #ff8c00 !important;
+}
