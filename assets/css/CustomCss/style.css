@@ -186,3 +186,7 @@
 .borderSun1 {
   border: 5px solid #ff8c00 !important;
 }
+
+.bg-sun2 {
+  background-color: #fffdf6;
+}
